@@ -1,0 +1,20 @@
+/* estilos.css */
+.Love__You {
+  margin: 0;
+  padding: 40px;
+  background: #F5E8DC;
+  font-size: 20px;
+  font-family: 'Georgia', serif;
+  color: #5C4033;
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#contador {
+  font-size: 24px;
+  margin-top: 20px;
+  font-weight: bold;
+}
