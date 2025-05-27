@@ -1,6 +1,6 @@
 // contador.js
 function actualizarContador() {
-  const inicio = new Date("2024-05-27T00:00:00");
+  const inicio = new Date("2022-04-22T00:00:00");
   const ahora = new Date();
   const diferencia = ahora - inicio;
 
