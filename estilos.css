@@ -7,21 +7,3 @@ body {
   background-repeat: no-repeat;
   font-family: 'Georgia', serif;
 }
-
-.Love__You {
-  background-color: rgba(245, 232, 220, 0.85);
-  padding: 40px;
-  font-size: 20px;
-  color: #5C4033;
-  text-align: center;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-#contador {
-  font-size: 24px;
-  margin-top: 20px;
-  font-weight: bold;
-}
