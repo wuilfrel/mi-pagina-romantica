@@ -10,21 +10,20 @@ body {
 }
 
 .Love__You {
-  background-color: transparent; /* sin fondo opaco */
+  background-color: rgba(255, 255, 255, 0.6); /* marco blanco semitransparente */
   padding: 40px;
+  border-radius: 20px;
   font-size: 20px;
   color: #5C4033;
   text-align: center;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* sombra para mejorar legibilidad */
+  max-width: 800px;
+  margin: auto;
+  margin-top: 60px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); /* sombra suave */
 }
 
 #contador {
   font-size: 24px;
   margin-top: 20px;
   font-weight: bold;
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* sombra también para el contador */
 }
